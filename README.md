@@ -1,4 +1,4 @@
-# IYF Season 12 – Week 3 Pair Programming
+# Week 3 Pair Programming
 
 ## 📌 Project Overview
 
