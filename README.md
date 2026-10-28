@@ -68,3 +68,6 @@ To view the project locally:
 ## 📄 License
 
 This project was created for educational purposes as part of the IYF Season 12 Web Foundations course.
+
+## pull request
+https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi/pull/1
